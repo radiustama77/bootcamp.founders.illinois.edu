@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:http://bootcamp.founders.illinois.edu/slot/sitemap.xml
